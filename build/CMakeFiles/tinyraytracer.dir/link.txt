@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -pedantic -std=c++11 -O3 -fopenmp  -rdynamic CMakeFiles/tinyraytracer.dir/main.cpp.o CMakeFiles/tinyraytracer.dir/render.cpp.o  -o tinyraytracer 

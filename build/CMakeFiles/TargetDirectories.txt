@@ -1,0 +1,3 @@
+/home/andrew/Work/CMC_MSU/CompGraph/Task2/build/CMakeFiles/rebuild_cache.dir
+/home/andrew/Work/CMC_MSU/CompGraph/Task2/build/CMakeFiles/edit_cache.dir
+/home/andrew/Work/CMC_MSU/CompGraph/Task2/build/CMakeFiles/raytracer.dir
